@@ -41,14 +41,11 @@ jobs:
             fs.writeFileSync('${{github.workspace}}/pr.zip', Buffer.from(download.data));
       - run: |
           unzip pr.zip
-          echo "DEBUG: $(cat nr)"
-          echo "{PR_NUMBER}=$(cat nr)" >> $GITHUB_ENV
+          echo "PR_NUMBER=$(cat nr)" >> $GITHUB_ENV
       - uses: actions/setup-go@v2
         with:
           go-version: '1.16.7'
       - run: |
-          echo $PR_NUMBER
-          printenv
           go install github.com/stephybun/link-milestone@latest
           link-milestone
         env:
