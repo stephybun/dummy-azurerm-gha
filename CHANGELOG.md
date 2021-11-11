@@ -1,6 +1,7 @@
 ## 2.86.0 (Unreleased)
 
 * **New Resource:** `something amazing`!
+* **New Resource:** `another something amazing such wow`!
 * **New Resource:** `another something amazing such wow doge`!
 
 ## 2.85.0 (November 12, 2021)
