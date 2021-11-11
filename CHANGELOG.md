@@ -6,6 +6,7 @@ FEATURES:
 * **New Resource:** `something amazing`!
 * **New Resource:** `another something amazing`!
 * **New Resource:** `another something amazing wow`!
+* **New Resource:** `another something amazing such wow`!
 
 IMPROVEMENTS:
 
