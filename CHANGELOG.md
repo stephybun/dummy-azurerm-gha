@@ -5,6 +5,7 @@ FEATURES:
 * **New Data Source:** `azurerm_batch_application` [GH-14043]
 * **New Resource:** `something amazing`!
 * **New Resource:** `another something amazing`!
+* **New Resource:** `another something amazing wow`!
 
 IMPROVEMENTS:
 
