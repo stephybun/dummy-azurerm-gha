@@ -7,6 +7,7 @@ FEATURES:
 * **New Resource:** `another something amazing`!
 * **New Resource:** `another something amazing wow`!
 * **New Resource:** `another something amazing such wow`!
+* **New Resource:** `another something amazing such wow doge`!
 
 IMPROVEMENTS:
 
