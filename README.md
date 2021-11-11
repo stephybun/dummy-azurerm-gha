@@ -1,2 +1,2 @@
 # dummy-azurerm-gha
-Dummy repo for testing GHA on the azurerm terraform provider
+Hello, this is a dummy repo for testing GHA on the azurerm terraform provider
