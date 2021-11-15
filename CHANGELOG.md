@@ -1,6 +1,5 @@
 ## 2.86.0 (Unreleased)
 
-* **New Resource:** `something amazing`!
 * **New Resource:** `another something amazing such wow`!
 * **New Resource:** `another something amazing such wow doge`!
 
